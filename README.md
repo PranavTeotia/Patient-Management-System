@@ -29,5 +29,5 @@ A Java-based desktop application to efficiently manage patient records for clini
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/PrakharTeotia/Patient-Management-System.git
+   git clone https://github.com/PranavTeotia/Patient-Management-System.git
    cd Patient-Management-System
